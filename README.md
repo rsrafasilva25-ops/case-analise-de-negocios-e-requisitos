@@ -38,13 +38,13 @@ O objetivo da análise é estruturar uma abordagem que permita investigar as cau
 
 | Artefato | Finalidade |
 |---|---|
-| [Contexto e problema](docs/01-contexto-e-problema.md) | Delimitar contexto, impacto e objetivo |
-| [Requisitos](docs/02-levantamento-de-requisitos.md) | Definir necessidades e comportamento esperado |
-| [Regras de negócio](docs/03-regras-de-negocio.md) | Estabelecer critérios e decisões de negócio |
-| [Fluxo do processo](docs/04-fluxo-do-processo.md) | Representar etapas e pontos de investigação |
-| [Matriz de rastreabilidade](docs/05-matriz-rastreabilidade.md) | Conectar necessidades, requisitos e testes |
-| [Plano de testes](docs/06-plano-de-testes.md) | Definir cenários, resultados esperados e evidências |
-| [Validação e pendências](docs/07-validacao-e-pendencias.md) | Registrar critérios, limitações e próximos passos |
+| [Contexto e problema] (docs/01-contexto-e-problema.md)| Delimitar contexto, impacto e objetivo |
+| [Requisitos] (docs/02-levantamento-de-requisitos.md) | Definir necessidades e comportamento esperado |
+| [Regras de negócio] (docs/03-regras-de-negocio.md) | Estabelecer critérios e decisões de negócio |
+| [Fluxo do processo] (docs/04-fluxo-do-processo.md) | Representar etapas e pontos de investigação |
+| [Matriz de rastreabilidade] (docs/05-matriz-rastreabilidade.md) | Conectar necessidades, requisitos e testes |
+| [Plano de testes] (docs/06-plano-de-testes.md) | Definir cenários, resultados esperados e evidências |
+| [Validação e pendências] (docs/07-validacao-e-pendencias.md) | Registrar critérios, limitações e próximos passos |
 
 ## Critérios de validação
 
@@ -75,7 +75,7 @@ O cenário e os dados utilizados para exemplificação são fictícios. Não sã
 
 ## Entregável consolidado
 
-Consulte [`entregaveis/Case_Analise_de_Negocios_RNP.pdf`](entregaveis/Case_Analise_de_Negocios_RNP.pdf) para a versão consolidada do estudo.
+Consulte [`entregaveis/Case_Analise_de_Negocios_RNP.pdf`] (entregaveis/Case_Analise_de_Negocios_RNP.pdf) para a versão consolidada do estudo.
 
 ## Resultado esperado
 
